@@ -1,1 +1,1 @@
-console.error("logger.")
+console.log("cat")
