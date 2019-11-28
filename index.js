@@ -1,1 +1,2 @@
-console.log("cat")
+console.error("cat")
+console.log("bird")
